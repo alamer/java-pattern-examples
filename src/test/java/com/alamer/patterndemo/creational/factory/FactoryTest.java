@@ -5,7 +5,7 @@ import com.alamer.patterndemo.creational.factory.provider.DataProviderFactory;
 
 import static org.junit.Assert.assertEquals;
 
-public class DataProviderFactoryTest {
+public class FactoryTest {
 
     @org.junit.Test
     public void getDataProvider() {

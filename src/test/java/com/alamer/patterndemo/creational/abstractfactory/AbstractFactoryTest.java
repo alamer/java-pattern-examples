@@ -7,7 +7,7 @@ import org.junit.Test;
 import static org.hamcrest.CoreMatchers.instanceOf;
 import static org.junit.Assert.assertThat;
 
-public class FactoryProducerTest {
+public class AbstractFactoryTest {
 
     @Test
     public void getFactory() {

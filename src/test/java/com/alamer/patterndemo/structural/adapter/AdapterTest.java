@@ -6,7 +6,7 @@ import java.nio.file.Path;
 
 import static org.junit.Assert.assertEquals;
 
-public class FtpGatewayImplTest {
+public class AdapterTest {
 
     @Test
     public void getData() {
