@@ -1,6 +1,6 @@
 package com.alamer.patterndemo.creational.builder;
 
-public class FtpConfig {
+class FtpConfig {
 
     private String username;
     private String password;
